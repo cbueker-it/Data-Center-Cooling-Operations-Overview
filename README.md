@@ -16,3 +16,24 @@ In this repository, I examine how air cooling and chilled-water systems work tog
 - Examine how effective cooling, monitoring, and incident management reduce operational risks, minimize disruptions, and support reliable business operations.
 - Develop a practical understanding of data center cooling infrastructure, operational procedures, and technician responsibilities through technical diagrams, documented observations, and lessons learned.
 
+
+**Data Center Cooling: Monitoring and Operational Response**
+
+![Data Center Cooling and Operational Response](images/01-data-center-cooling-and-response.png)
+
+- Illustrates how cool air enters server racks, absorbs equipment heat, and returns to the CRAH cooling unit, where heat is transferred into the chilled-water system.
+- Shows how chilled water enters the CRAH cooling coil and returns warmer to the cooling plant, while temperature sensors and equipment-status monitoring provide operational visibility.
+- Demonstrates how technicians assess cooling alerts, notify appropriate teams, document incidents, and monitor conditions through resolution or handoff to support equipment availability.
+
+**Environmental Monitoring and Incident Escalation Management Workflow**
+
+![Environmental Monitoring and Incident Escalation](images/02-environmental-monitoring-and-escalation.png)
+
+- Identifies critical facility conditions, including temperature, humidity, moisture, cooling, power, physical security, and equipment alarms that require operational awareness.
+- Shows how technicians review monitoring information, verify conditions, determine severity, and escalate abnormalities according to established procedures, with critical conditions requiring immediate notification.
+- Explains how timely communication, accurate ticket documentation, monitoring, and shift handoffs support incident resolution, operational continuity, and data center uptime.
+
+**Lessons Learned**
+
+
+
