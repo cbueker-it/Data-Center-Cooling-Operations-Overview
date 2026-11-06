@@ -34,6 +34,10 @@ In this repository, I examine how air cooling and chilled-water systems work tog
 - Explains how timely communication, accurate ticket documentation, monitoring, and shift handoffs support incident resolution, operational continuity, and data center uptime.
 
 **Lessons Learned**
-
+- Developed a better understanding of how room air cooling, hot-aisle/cold-aisle airflow, CRAH units, and chilled-water systems work together to remove heat and maintain safe operating temperatures.
+- Learned how temperature, humidity, moisture detection, cooling equipment status, and other environmental indicators help technicians recognize abnormal conditions before they cause larger operational disruptions.
+- Reinforced the importance of assessing alerts, following approved procedures, promptly escalating critical conditions, and documenting incidents to support effective troubleshooting and resolution.
+- Gained a greater appreciation for how cooling, power, monitoring, and redundancy work together to protect equipment availability and minimize operational risks.
+- Recognized how knowledgeable technicians, accurate documentation, clear communication, and detailed operational procedures contribute to reliable infrastructure, business continuity, and customer satisfaction.
 
 
