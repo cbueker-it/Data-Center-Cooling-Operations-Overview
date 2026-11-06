@@ -2,6 +2,8 @@
 
 Data center cooling systems, environmental monitoring, operational response, and incident escalation explained.
 
+**Context**
+
 Data centers are mission-critical infrastructure that support businesses, public safety services, communication networks, and many of the modern technologies that keep today's world operating. Maintaining these facilities requires reliable power, cooling, monitoring, and operational procedures designed to protect equipment and ensure business continuity.
 
 An important part of data center operations is maintaining proper cooling to prevent equipment from overheating. This reduces operational risks and supports reliable system performance. As demand for computing infrastructure grows, energy efficiency, sustainability, and effective cooling management are becoming increasingly important to businesses and local communities.
