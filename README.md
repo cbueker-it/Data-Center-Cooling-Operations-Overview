@@ -24,22 +24,25 @@ In this repository, I examine how air cooling and chilled-water systems work tog
 
 - Illustrates how cool air enters server racks, absorbs equipment heat, and returns to the CRAH cooling unit, where heat is transferred into the chilled-water system.
 - Shows how chilled water enters the CRAH cooling coil and returns warmer to the cooling plant, while temperature sensors and equipment-status monitoring provide operational visibility.
-- Demonstrates how technicians assess cooling alerts, notify appropriate teams, document incidents, and monitor conditions through resolution or handoff to support equipment availability.
+- Demonstrates how technicians assess cooling alerts, notify appropriate teams, document incidents, and monitor conditions.
 
 **Environmental Monitoring and Incident Escalation Management Workflow**
 
 ![Environmental Monitoring and Incident Escalation](images/02-environmental-monitoring-and-escalation.png)
 
-- Identifies critical facility conditions, including temperature, humidity, moisture, cooling, power, physical security, and equipment alarms that require operational awareness.
-- Shows how technicians review monitoring information, verify conditions, determine severity, and escalate abnormalities according to established procedures, with critical conditions requiring immediate notification.
+- Identifies critical facility conditions, including temperature, humidity, moisture, cooling, power, physical security, and equipment alarms.
+- Shows how technicians review monitoring information, verify conditions, determine severity, and escalate abnormalities according to established procedures.
 - Explains how timely communication, accurate ticket documentation, monitoring, and shift handoffs support incident resolution, operational continuity, and data center uptime.
 
-**Lessons Learned**
-- Developed a better understanding of how room air cooling, hot-aisle/cold-aisle airflow, CRAH units, and chilled-water systems work together to remove heat and maintain safe operating temperatures.
-- Learned how temperature, humidity, moisture detection, cooling equipment status, and other environmental indicators help technicians recognize abnormal conditions before they cause larger operational disruptions.
-- Reinforced the importance of assessing alerts, following approved procedures, promptly escalating critical conditions, and documenting incidents to support effective troubleshooting and resolution.
-- Gained a greater appreciation for how cooling, power, monitoring, and redundancy work together to protect equipment availability and minimize operational risks.
-- Recognized how knowledgeable technicians, accurate documentation, clear communication, and detailed operational procedures contribute to reliable infrastructure, business continuity, and customer satisfaction.
+**Reflection**
+
+In this project, I document how room air cooling, hot-aisle/cold-aisle airflow, and chilled-water systems work together to maintain safe and reliable data center operations.
+
+I review the monitoring processes involving temperature, humidity, moisture detection, cooling equipment, and power systems.
+
+The operational workflows that I show here cover alert detection, condition verification, incident escalation, documentation, and follow-up monitoring.
+
+These processes demonstrate how technicians use standardized procedures, efficient communication, and structured troubleshooting to support reliable and profitable data center operations.
 
 **Summary**
 
